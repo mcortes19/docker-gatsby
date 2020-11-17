@@ -11,4 +11,3 @@ RUN \
   && rm -fR /var/cache/apk/*
 
 RUN npm install -g gatsby-cli
-
